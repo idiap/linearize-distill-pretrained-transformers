@@ -1,6 +1,6 @@
 This repository contains the reference code for the paper 
 [Joint Fine-tuning and Conversion of Pretrained Speech and Language Models towards Linear Complexity](https://arxiv.org/abs/2410.06846),
-accepted by ICLR2025.
+accepted by [ICLR2025](https://openreview.net/forum?id=90Db4RUBc7).
 
 # Abstract
 
